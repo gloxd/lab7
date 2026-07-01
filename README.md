@@ -1,4 +1,4 @@
-<img width="756" height="413" alt="image" src="https://github.com/user-attachments/assets/63d0699d-024d-4401-b38c-f8b6d4ecf350" /># Хомяков Михаил КМБ-1 Лабораторная №7
+# Хомяков Михаил КМБ-1 Лабораторная №7
 
 # Задание 1
 
