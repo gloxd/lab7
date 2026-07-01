@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfToy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Toy>
+    <Name>пе</Name>
+    <Price>55</Price>
+    <MinAge>4</MinAge>
+    <MaxAge>6</MaxAge>
+  </Toy>
+</ArrayOfToy>
